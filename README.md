@@ -64,19 +64,6 @@ Meu foco é construir aplicações completas e escaláveis, unindo a robustez do
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rhugo22&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=V1ct0rhugo22" height="180" alt="languages graph" />
 </div>
 
----
-
-### 🧩 Principais Projetos
-
-| Projeto | Tecnologias | Descrição |
-| :--- | :--- | :--- |
-| **SENAICommunity** | `Java` `Spring Boot` `React` | Rede social acadêmica com sistema de login, postagens e interação em tempo real. |
-| **Stock System** | `Java` `MySQL` `Desktop` | Sistema de gestão de estoque para controle de entrada e saída de bobinas (inspirado em indústria). |
-| **Japa Universe** | `React` `Web` | Interface de e-commerce responsiva focada em streetwear e sneakers. |
-| **Mobile Apps** | `React Native` `Expo` | Aplicações móveis com consumo de APIs e geolocalização. |
-
----
-
 <div align="center">
   <sub><i>"Code is like humor. When you have to explain it, it’s bad."</i></sub>
 </div>
